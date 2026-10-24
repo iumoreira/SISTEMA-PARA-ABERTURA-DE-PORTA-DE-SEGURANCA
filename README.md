@@ -42,5 +42,8 @@ Para compilar e rodar este programa na sua máquina, certifique-se de ter um com
      ./sistema_seguranca
      ```
 
+   <img width="1340" height="1508" alt="printf01" src="https://github.com/user-attachments/assets/eaf27b20-720b-4e09-8d2e-4ac67929c121" />
+
+
 ---
 *Nota: Este projeto foi desenvolvido para fins educacionais e de estudo da lógica de programação estruturada e livre de inteligencia artificial.*
