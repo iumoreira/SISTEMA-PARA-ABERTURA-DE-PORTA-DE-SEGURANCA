@@ -1,7 +1,8 @@
 # SISTEMA DE ABERTURA DE PORTA
 
 **Projeto 02**  
-**Autor:** Iury Moreira Lopes  
+**Autor:** Iury Moreira Lopes 
+**Linkedin:** https://linkedIn.com/in/iury-moreira-lopes-3b06073b6
 **Data:** 24/10/2026  
 
 Este é um programa desenvolvido em linguagem C que simula um sistema de controle de acesso para um laboratório. Ele valida a identidade do usuário através do ID do crachá e verifica as condições de segurança térmica do ambiente antes de liberar a entrada.
